@@ -1,9 +1,8 @@
-# FirstThingsFirst
-test run for DSTB
-================
+##First Things First
+================  
 
 ###Smart Ninjas Can Defeat the Wolf  
-If they:
+If they:  
 *Study hard  
 *Practice diligently  
 *Draw from inpiration  
